@@ -1,0 +1,2 @@
+version=4
+opts=uversionmangle=s/-rc/~rc/ https://github.com/janestreet/ppx_let/tags .*/v?([\d\.\-rc]+)\.tar\.gz

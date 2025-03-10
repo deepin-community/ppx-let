@@ -1,5 +1,5 @@
-template-repository (1.0-1) unstable; urgency=medium
+ppx-let (0.17.0-1) unstable; urgency=medium
 
-  * Initial release
+  * Initial release (Closes: #1082179)
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Stéphane Glondu <glondu@debian.org>  Thu, 19 Sep 2024 08:34:46 +0200

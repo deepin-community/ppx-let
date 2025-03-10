@@ -1,0 +1,5 @@
+@OCamlStdlibDir@/ppx_let/META
+@OCamlStdlibDir@/ppx_let/*.cma
+DYN: @OCamlStdlibDir@/ppx_let/*.cmxs
+@OCamlStdlibDir@/ppx_let/*/*.cma
+DYN: @OCamlStdlibDir@/ppx_let/*/*.cmxs
